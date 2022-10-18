@@ -4,7 +4,7 @@ This is a basic implementation of xargs and may be used freely with Windows OS. 
 
 # Install
 
-* Copy "xargs.bat" into one of your PATH folders.
+* Copy "xargs.bat" into one of your PATH folders or copy "xarg.bat" in c://windows
 * Done. Re-open your terminal if it is open, and you may now use it.
 
 # Where or What is a PATH Folder?
@@ -21,6 +21,3 @@ WRONG USAGE and will not work (default from Windows)
 #
 RIGHT USAGE and will work (with xargs installed)
 ##### echo: 1.1.1.1 | xargs ping
-
-# Video Tutorial
-<https://youtu.be/vaXEg0Wtbrw>
